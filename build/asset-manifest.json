@@ -1,16 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e7a2a94.css",
-    "main.js": "/static/js/main.5e0a0a37.js",
+    "main.css": "/static/css/main.cc5b555d.css",
+    "main.js": "/static/js/main.f5a248a6.js",
     "static/js/787.a97cb00a.chunk.js": "/static/js/787.a97cb00a.chunk.js",
+    "static/media/CanvaIcon.svg": "/static/media/CanvaIcon.1b768f11093ddae7fd30d3700bd06c7b.svg",
+    "static/media/DarkModeImage.png": "/static/media/DarkModeImage.c2b0e76bb9482766c588.png",
+    "static/media/LightModeImage.png": "/static/media/LightModeImage.c9fdb269ebca752b11d1.png",
+    "static/media/CorelDrawIcon.svg": "/static/media/CorelDrawIcon.a185ad9e9a0c607680bc01dceccd48e8.svg",
+    "static/media/ReactJSIcon.svg": "/static/media/ReactJSIcon.6c91632edf6da957e9cd4784c4e1978c.svg",
+    "static/media/GitHubPositiveIcon.svg": "/static/media/GitHubPositiveIcon.e7ed4664a760cb2adab41eec16f8ff92.svg",
+    "static/media/GitHubNegativeIcon.svg": "/static/media/GitHubNegativeIcon.56b3146e71a8f79dc4f58289decb01f9.svg",
+    "static/media/InstagramPositiveIcon.svg": "/static/media/InstagramPositiveIcon.39c9b55d193731c4fc0c7340f7004506.svg",
+    "static/media/InstagramNegativeIcon.svg": "/static/media/InstagramNegativeIcon.5038f25287cb06ba55ac354f15431266.svg",
+    "static/media/GitHubIcon.svg": "/static/media/GitHubIcon.7440dc9a071bcb1b96fe1802c20bf6f8.svg",
+    "static/media/AdobeIllustratorIcon.svg": "/static/media/AdobeIllustratorIcon.d51802598b769f6bbc42daa9463ecac8.svg",
+    "static/media/JavaIcon.svg": "/static/media/JavaIcon.147515c2721e54746c3edc9ba8ce2985.svg",
+    "static/media/AdobePhotoshopIcon.svg": "/static/media/AdobePhotoshopIcon.e1ba9954511138187b4785df18d8d87e.svg",
+    "static/media/BootstrapIcon.svg": "/static/media/BootstrapIcon.8ccb8210119b6b0fe6527b416d848d8c.svg",
+    "static/media/WhatsAppIcon.svg": "/static/media/WhatsAppIcon.9c33ffbb3ab9ff6347cd18720a4cc111.svg",
+    "static/media/DarkModeIcon.svg": "/static/media/DarkModeIcon.af862f3f8dad8d2e8a957756d08f9438.svg",
+    "static/media/LinkedInIcon.svg": "/static/media/LinkedInIcon.c67fb687f0c28fec0592e8760d303b6d.svg",
+    "static/media/CSS3Icon.svg": "/static/media/CSS3Icon.188022b0465d5a9c472e6c33e6db35c3.svg",
+    "static/media/JavaScriptIcon.svg": "/static/media/JavaScriptIcon.0bb4c51445d7bf85814fe81b142f9c30.svg",
+    "static/media/LightModeIcon.svg": "/static/media/LightModeIcon.d51e143496e2fbaaecfdf0e541380342.svg",
+    "static/media/HTML5Icon.svg": "/static/media/HTML5Icon.bf9e5b335aa5e8e671e30b3831bcc557.svg",
     "index.html": "/index.html",
-    "static/media/arrow.svg": "/static/media/arrow.fd85e4219248d3be3ebe1175692e4495.svg",
-    "main.6e7a2a94.css.map": "/static/css/main.6e7a2a94.css.map",
-    "main.5e0a0a37.js.map": "/static/js/main.5e0a0a37.js.map",
+    "main.cc5b555d.css.map": "/static/css/main.cc5b555d.css.map",
+    "main.f5a248a6.js.map": "/static/js/main.f5a248a6.js.map",
     "787.a97cb00a.chunk.js.map": "/static/js/787.a97cb00a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e7a2a94.css",
-    "static/js/main.5e0a0a37.js"
+    "static/css/main.cc5b555d.css",
+    "static/js/main.f5a248a6.js"
   ]
 }
